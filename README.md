@@ -1,16 +1,21 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">Mr.Baeza</a> 👋</h1>
+</div>
+<img src="https://i.imgur.com/czExR2j.png">
 
-<!--
-**MrBeeza/mrbeeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mi
+
+
+- 📲 web developer
+ 
+- ✏️ Interes por el aprendizaje en cyeber seguridad.
+ 
+<br>
+
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+
