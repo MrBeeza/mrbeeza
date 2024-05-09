@@ -32,7 +32,7 @@
   <tr>
     <td>HTML</td>
     <td>Expert</td>
-    <td><img src="html_logo.png" alt="HTML Logo" width="40" height="40"></td>
+    <td><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_plain_wordmark_logo_icon_146476.png" alt="HTML Logo" width="40" height="40"></td>
   </tr>
   <tr>
     <td>CSS</td>
