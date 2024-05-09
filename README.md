@@ -5,7 +5,8 @@
 
 
 <div align="center">
-<h2>about me</h2> 
+<h2>About me</h2> 
+<br>
 
 
  🌐 web developer
@@ -56,8 +57,11 @@
 <div align="center">
 <img src= "https://i.imgur.com/XA9TTZh.png">
  <br>
- 
- ### ⚙️ &nbsp;GitHub Analytics
+ <footer>
+&reg Rafael Baeza 2024
+<br>
+⚙️GitHub Analytics
+ </footer>
 </div>
 
 
