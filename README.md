@@ -4,19 +4,19 @@
 <img src="https://i.imgur.com/czExR2j.png">
 
 
-
+<div align="center">
 ## Sobre mi
 
 
 - 🌐 web developer
  
 - 📜 Insterested in learning more of cyber security 🤖🤖
- 
+ </div>
 <br>
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
+
 
 
 <div align=center>
@@ -51,5 +51,12 @@
   </tr>
 </table>
 </div>
+
+<div align="center">
+<img src= "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2150031291/settings_images/dae5a0e-467b-50-bbb5-dfb2547a374_Plantilla_P_ginas_HM_07_-_001.png">
+</div>
+
+
+### ⚙️ &nbsp;GitHub Analytics
 
 
