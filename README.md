@@ -19,7 +19,10 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 
-
+<div align=center>
+ <H1>📚 Conocimientos 📚</H1>
+ <br>
+ 
 <table border="1">
   <tr>
     <th>Skill</th>
@@ -38,14 +41,15 @@
   </tr>
   <tr>
     <td>JavaScript</td>
-    <td>Proficient</td>
+    <td>advanced</td>
     <td><img src="js_logo.png" alt="JavaScript Logo" width="40" height="40"></td>
   </tr>
   <tr>
     <td>React</td>
-    <td>Skilled</td>
+    <td>advanced</td>
     <td><img src="react_logo.png" alt="React Logo" width="40" height="40"></td>
   </tr>
 </table>
+</div>
 
 
