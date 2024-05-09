@@ -5,12 +5,12 @@
 
 
 <div align="center">
-## about me
+<h2>about me</h2> 
 
 
-- 🌐 web developer
+ 🌐 web developer
  
-- 📜 Insterested in learning more of cyber security 🤖🤖
+ 📜 Insterested in learning more of cyber security 🤖🤖
  </div>
 <br>
 
