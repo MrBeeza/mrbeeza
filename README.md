@@ -2,6 +2,9 @@
 <h1 align="center">⌨️Hello I`M <a href="https://www.linkedin.com/in/mrbaeza/">Mr.Baeza</a>🖱️</h1>
 </div>
 <img src="https://i.imgur.com/czExR2j.png">
+<div class="experiencia">
+  <div class="relleno" style="width: 75%;"></div>
+</div>
 
 
 <div align="center">
